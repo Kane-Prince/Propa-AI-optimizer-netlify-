@@ -76,7 +76,7 @@ export default function CalendlyModal({ isOpen, onClose }: CalendlyModalProps) {
         <div className="bg-white rounded-lg p-4 mb-6 text-center">
           <p className="text-black font-semibold mb-2">Select Your Preferred Time</p>
           <a 
-            href="https://calendly.com/princekene20/proxiai-meeting" 
+            href="https://calendly.com/princekene20/propaaisystems-meeting" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-gold-gradient text-black px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 inline-block"
