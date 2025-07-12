@@ -1,0 +1,41 @@
+Unilever × AI Financial Intelligence – Cut Forecast Cycle by 50%, Improved Accuracy 25%
+Challenge: Manual forecasting led to slow reporting and missed market shifts.
+Solution: Integrated AI-powered forecasting and real-time analytics with SAP ERP.
+Results:
+Reduced forecast cycle time by 50%
+Improved forecast accuracy by 25%
+Freed up finance team for strategic projects
+Impact: Enabled faster, data-driven decisions and improved board confidence.
+HSBC × AI Compliance Automation – 30% Lower Compliance Costs, 40% Fewer Errors
+Challenge: Rising regulatory complexity and costly, error-prone manual reporting.
+Solution: Deployed AI and NLP to automate compliance monitoring and regulatory reporting.
+Results:
+30% reduction in compliance costs
+40% fewer reporting errors
+25% faster report generation
+Impact: Enhanced audit readiness and reduced risk of fines.
+American Express × AI Expense Management – 60% Less Fraud, 50% Fewer Audits
+Challenge: High fraud risk and manual expense review burden.
+Solution: Implemented AI-driven expense management and real-time fraud detection.
+Results:
+60% reduction in fraud losses
+50% decrease in manual audits
+35% faster reimbursement cycles
+Impact: Improved policy compliance and employee satisfaction.
+Salesforce × AI Onboarding Automation – 60% Faster Onboarding, 25% Higher Satisfaction
+Challenge: Lengthy, manual customer onboarding slowed revenue realization.
+Solution: Rolled out AI-powered onboarding with automated document verification and KYC.
+Results:
+60% reduction in onboarding time
+25% increase in customer satisfaction
+30% fewer onboarding errors
+Impact: Accelerated revenue capture and improved client retention.
+UiPath × RPA in Finance – 50% Cost Savings, 80% Fewer Errors
+Challenge: Administrative overload and high processing costs in finance operations.
+Solution: Deployed RPA bots for invoice processing, reconciliations, and data entry.
+Results:
+50% reduction in processing costs
+80% reduction in error rates
+40% faster process completion
+Impact: Freed finance staff for higher-value work and improved scalability.
+These case studies illustrate how AI-driven systems deliver measurable gains in efficiency, compliance, fraud reduction, and customer experience for finance teams and CFOs.
